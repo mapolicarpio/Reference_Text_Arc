@@ -27,7 +27,7 @@ void draw() {
   strokeWeight(9);
   arc(mouseX+170,mouseY+160,45,50,radians(180),radians(440));
  stroke(255,152,26);
-  arc(mouseX-50,mouseY-150,57,65,radians(180),radians(440));
+  arc(mouseX-60,mouseY-150,57,65,radians(180),radians(440));
   stroke(255,152,26);
   noFill();
   strokeWeight(4);
